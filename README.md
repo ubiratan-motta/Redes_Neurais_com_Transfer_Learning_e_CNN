@@ -8,3 +8,5 @@
   - Como desenvolver uma rede neural convolucional para classificação de fotos do zero e melhorar o desempenho do modelo.
   - Como desenvolver um modelo para classificação de fotos usando aprendizado de transferência.
   
+### O dataset utilizado é proveniente de um desafio do keggle: https://www.kaggle.com/competitions/dogs-vs-cats/data
+
