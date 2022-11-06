@@ -9,4 +9,5 @@
   - Como desenvolver um modelo para classificação de fotos usando aprendizado de transferência.
   
 ### O dataset utilizado é proveniente de um desafio do keggle: https://www.kaggle.com/competitions/dogs-vs-cats/data
-
+- Por dificuldades de processamento foi diminuida a quantidade de imagens para treino: 500 imagens para gatos e 500 imagens para cachorros
+- A quantidade de imagens para teste ficou em 1500
